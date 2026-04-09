@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-09T00:00:00Z",
+  "races": [
+    {
+      "id": "tokyo-marathon",
+      "name": "Tokyo Marathon",
+      "category": "majors",
+      "logoUrl": "https://your-domain.com/runnerstation/logos/tokyo-marathon.png",
+      "themeColorHex": "#34C759",
+      "isActive": true,
+      "sortOrder": 10
+    },
+    {
+      "id": "boston-marathon",
+      "name": "Boston Marathon",
+      "category": "majors",
+      "logoUrl": "https://your-domain.com/runnerstation/logos/boston-marathon.png",
+      "themeColorHex": "#FFCC00",
+      "isActive": true,
+      "sortOrder": 20
+    },
+    {
+      "id": "london-marathon",
+      "name": "London Marathon",
+      "category": "majors",
+      "logoUrl": "https://your-domain.com/runnerstation/logos/london-marathon.png",
+      "themeColorHex": "#0A84FF",
+      "isActive": true,
+      "sortOrder": 30
+    },
+    {
+      "id": "berlin-marathon",
+      "name": "Berlin Marathon",
+      "category": "majors",
+      "logoUrl": "https://your-domain.com/runnerstation/logos/berlin-marathon.png",
+      "themeColorHex": "#FF9500",
+      "isActive": true,
+      "sortOrder": 40
+    },
+    {
+      "id": "chicago-marathon",
+      "name": "Chicago Marathon",
+      "category": "majors",
+      "logoUrl": "https://your-domain.com/runnerstation/logos/chicago-marathon.png",
+      "themeColorHex": "#FF3B30",
+      "isActive": true,
+      "sortOrder": 50
+    },
+    {
+      "id": "new-york-city-marathon",
+      "name": "New York Marathon",
+      "category": "majors",
+      "logoUrl": "https://your-domain.com/runnerstation/logos/new-york-city-marathon.png",
+      "themeColorHex": "#00C7BE",
+      "isActive": true,
+      "sortOrder": 60
+    },
+    {
+      "id": "sydney-marathon",
+      "name": "Sydney Marathon",
+      "category": "majors",
+      "logoUrl": "https://your-domain.com/runnerstation/logos/sydney-marathon.png",
+      "themeColorHex": "#64D2FF",
+      "isActive": true,
+      "sortOrder": 70
+    }
+  ]
+}
