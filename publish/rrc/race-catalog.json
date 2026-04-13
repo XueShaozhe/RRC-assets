@@ -6,7 +6,8 @@
       "id": "tokyo-marathon",
       "name": "Tokyo Marathon",
       "category": "majors",
-      "logoUrl": "https://your-domain.com/runnerstation/logos/tokyo-marathon.png",
+      "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/tokyo-marathon.png",
+      "logoVersion": 1,
       "themeColorHex": "#34C759",
       "isActive": true,
       "sortOrder": 10
@@ -15,7 +16,8 @@
       "id": "boston-marathon",
       "name": "Boston Marathon",
       "category": "majors",
-      "logoUrl": "https://your-domain.com/runnerstation/logos/boston-marathon.png",
+      "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/boston-marathon.png",
+      "logoVersion": 1,
       "themeColorHex": "#FFCC00",
       "isActive": true,
       "sortOrder": 20
@@ -24,7 +26,8 @@
       "id": "london-marathon",
       "name": "London Marathon",
       "category": "majors",
-      "logoUrl": "https://your-domain.com/runnerstation/logos/london-marathon.png",
+      "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/london-marathon.png",
+      "logoVersion": 1,
       "themeColorHex": "#0A84FF",
       "isActive": true,
       "sortOrder": 30
@@ -33,7 +36,8 @@
       "id": "berlin-marathon",
       "name": "Berlin Marathon",
       "category": "majors",
-      "logoUrl": "https://your-domain.com/runnerstation/logos/berlin-marathon.png",
+      "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/berlin-marathon.png",
+      "logoVersion": 1,
       "themeColorHex": "#FF9500",
       "isActive": true,
       "sortOrder": 40
@@ -42,7 +46,8 @@
       "id": "chicago-marathon",
       "name": "Chicago Marathon",
       "category": "majors",
-      "logoUrl": "https://your-domain.com/runnerstation/logos/chicago-marathon.png",
+      "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/chicago-marathon.png",
+      "logoVersion": 1,
       "themeColorHex": "#FF3B30",
       "isActive": true,
       "sortOrder": 50
@@ -51,7 +56,8 @@
       "id": "new-york-city-marathon",
       "name": "New York Marathon",
       "category": "majors",
-      "logoUrl": "https://your-domain.com/runnerstation/logos/new-york-city-marathon.png",
+      "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/new-york-city-marathon.png",
+      "logoVersion": 1,
       "themeColorHex": "#00C7BE",
       "isActive": true,
       "sortOrder": 60
@@ -60,7 +66,8 @@
       "id": "sydney-marathon",
       "name": "Sydney Marathon",
       "category": "majors",
-      "logoUrl": "https://your-domain.com/runnerstation/logos/sydney-marathon.png",
+      "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/sydney-marathon.png",
+      "logoVersion": 1,
       "themeColorHex": "#64D2FF",
       "isActive": true,
       "sortOrder": 70
