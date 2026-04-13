@@ -7,7 +7,7 @@
       "name": "Tokyo Marathon",
       "category": "majors",
       "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/tokyo-marathon.png",
-      "logoVersion": 1,
+      "logoVersion": 2,
       "themeColorHex": "#34C759",
       "isActive": true,
       "sortOrder": 10
@@ -17,7 +17,7 @@
       "name": "Boston Marathon",
       "category": "majors",
       "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/boston-marathon.png",
-      "logoVersion": 1,
+      "logoVersion": 2,
       "themeColorHex": "#FFCC00",
       "isActive": true,
       "sortOrder": 20
@@ -27,7 +27,7 @@
       "name": "London Marathon",
       "category": "majors",
       "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/london-marathon.png",
-      "logoVersion": 1,
+      "logoVersion": 2,
       "themeColorHex": "#0A84FF",
       "isActive": true,
       "sortOrder": 30
@@ -37,7 +37,7 @@
       "name": "Berlin Marathon",
       "category": "majors",
       "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/berlin-marathon.png",
-      "logoVersion": 1,
+      "logoVersion": 2,
       "themeColorHex": "#FF9500",
       "isActive": true,
       "sortOrder": 40
@@ -47,7 +47,7 @@
       "name": "Chicago Marathon",
       "category": "majors",
       "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/chicago-marathon.png",
-      "logoVersion": 1,
+      "logoVersion": 2,
       "themeColorHex": "#FF3B30",
       "isActive": true,
       "sortOrder": 50
@@ -57,7 +57,7 @@
       "name": "New York Marathon",
       "category": "majors",
       "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/new-york-city-marathon.png",
-      "logoVersion": 1,
+      "logoVersion": 2,
       "themeColorHex": "#00C7BE",
       "isActive": true,
       "sortOrder": 60
@@ -67,7 +67,7 @@
       "name": "Sydney Marathon",
       "category": "majors",
       "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/sydney-marathon.png",
-      "logoVersion": 1,
+      "logoVersion": 2,
       "themeColorHex": "#64D2FF",
       "isActive": true,
       "sortOrder": 70
