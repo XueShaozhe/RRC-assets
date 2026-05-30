@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-30T00:00:00Z",
+  "baseURL": "https://raw.githubusercontent.com/XueShaozhe/RRC-assets/main/publish/rrc/exhibition",
+  "items": [
+    {
+      "id": "next-to-shanghai-001",
+      "title": "Next to Shanghai",
+      "subtitle": "A city-side running mood with calm Shanghai energy.",
+      "status": "published",
+      "sortOrder": 10,
+      "wallpaper": {
+        "id": "next-to-shanghai-001",
+        "path": "wallpapers/next-to-shanghai-001.jpg",
+        "width": 1320,
+        "height": 2868
+      },
+      "thumbnail": {
+        "path": "thumbnails/next-to-shanghai-001.jpg",
+        "width": 402,
+        "height": 874
+      },
+      "widget": {
+        "templateId": "pb-city",
+        "title": "Run",
+        "accentText": "Shanghai.",
+        "value": "02:59:59",
+        "accentColor": "#0091FF",
+        "position": {
+          "x": 0.095,
+          "y": 0.078
+        },
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "run-tokyo-001",
+      "title": "Run Tokyo",
+      "subtitle": "A focused Tokyo rhythm for late miles and sharp pacing.",
+      "status": "published",
+      "sortOrder": 20,
+      "wallpaper": {
+        "id": "run-tokyo-001",
+        "path": "wallpapers/run-tokyo-001.jpg",
+        "width": 1320,
+        "height": 2868
+      },
+      "thumbnail": {
+        "path": "thumbnails/run-tokyo-001.jpg",
+        "width": 402,
+        "height": 874
+      },
+      "widget": {
+        "templateId": "pb-city",
+        "title": "Run",
+        "accentText": "Tokyo.",
+        "value": "03:12:08",
+        "accentColor": "#74FFB3",
+        "position": {
+          "x": 0.095,
+          "y": 0.078
+        },
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "sub2-001",
+      "title": "Sub 2",
+      "subtitle": "A race-day composition inspired by chasing the impossible split.",
+      "status": "published",
+      "sortOrder": 30,
+      "wallpaper": {
+        "id": "sub2-001",
+        "path": "wallpapers/sub2-001.jpg",
+        "width": 1320,
+        "height": 2868
+      },
+      "thumbnail": {
+        "path": "thumbnails/sub2-001.jpg",
+        "width": 402,
+        "height": 874
+      },
+      "widget": {
+        "templateId": "personal-record",
+        "title": "Sub",
+        "accentText": "2.",
+        "value": "01:59:59",
+        "accentColor": "#FFF200",
+        "position": {
+          "x": 0.095,
+          "y": 0.078
+        },
+        "scale": 1.0
+      }
+    }
+  ]
+}
