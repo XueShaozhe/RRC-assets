@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "namespace": "rrc.runner_words",
+  "updatedAt": "2026-06-12",
+  "defaultLanguage": "en",
+  "datasets": [
+    {
+      "datasetId": "runner_words_en",
+      "language": "en",
+      "path": "publish/rrc/runner_words/runner_words_en.json",
+      "rawUrl": "https://raw.githubusercontent.com/XueShaozhe/RRC-assets/main/publish/rrc/runner_words/runner_words_en.json",
+      "itemCount": 7,
+      "schemaVersion": 1
+    }
+  ]
+}

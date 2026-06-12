@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "datasetId": "runner_words_en",
+  "language": "en",
+  "updatedAt": "2026-06-12",
+  "items": [
+    {
+      "id": "steve-prefontaine-001",
+      "quote": "To give anything less than your best is to sacrifice the gift.",
+      "author": "Steve Prefontaine",
+      "authorInfo": "American middle- and long-distance runner",
+      "category": "discipline",
+      "language": "en",
+      "isPremium": false,
+      "attributionConfidence": "sourced",
+      "source": {
+        "title": "Steve Prefontaine - Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Steve_Prefontaine",
+        "note": "Attributed to Tom Jordan, Pre: America's Greatest Running Legend, Steve Prefontaine."
+      }
+    },
+    {
+      "id": "emil-zatopek-001",
+      "quote": "I was not talented enough to run and smile at the same time.",
+      "author": "Emil Zatopek",
+      "authorInfo": "Czech long-distance runner and Olympic champion",
+      "category": "grit",
+      "language": "en",
+      "isPremium": false,
+      "attributionConfidence": "sourced",
+      "source": {
+        "title": "Emil Zatopek - Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Emil_Z%C3%A1topek",
+        "note": "Attributed by Mike Rowbottom, The Independent, 23 November 2000."
+      }
+    },
+    {
+      "id": "emil-zatopek-002",
+      "quote": "Are you running out of breath? Go faster!",
+      "author": "Emil Zatopek",
+      "authorInfo": "Czech long-distance runner and Olympic champion",
+      "category": "grit",
+      "language": "en",
+      "isPremium": false,
+      "attributionConfidence": "sourced",
+      "source": {
+        "title": "Emil Zatopek - Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Emil_Z%C3%A1topek",
+        "note": "Listed as a life credo translated from Czech."
+      }
+    },
+    {
+      "id": "eliud-kipchoge-001",
+      "quote": "Only the disciplined ones are free in life.",
+      "author": "Eliud Kipchoge",
+      "authorInfo": "Kenyan marathon runner and Olympic champion",
+      "category": "discipline",
+      "language": "en",
+      "isPremium": false,
+      "attributionConfidence": "sourced",
+      "source": {
+        "title": "Eliud Kipchoge - Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Eliud_Kipchoge",
+        "note": "Cited from Eliud Kipchoge & David Bedford at the Oxford Union, 5 January 2018."
+      }
+    },
+    {
+      "id": "eliud-kipchoge-002",
+      "quote": "No human is limited.",
+      "author": "Eliud Kipchoge",
+      "authorInfo": "First person to run a marathon distance under two hours",
+      "category": "limits",
+      "language": "en",
+      "isPremium": false,
+      "attributionConfidence": "sourced",
+      "source": {
+        "title": "The incredible science behind Eliud Kipchoge's 1:59 marathon",
+        "url": "https://www.wired.com/story/eliud-kipchoge-ineos-159-marathon",
+        "note": "Reported after the INEOS 1:59 Challenge in Vienna, 12 October 2019."
+      }
+    },
+    {
+      "id": "kathrine-switzer-001",
+      "quote": "I knew if I quit, nobody would ever believe that women had the capability to run 26-plus miles.",
+      "author": "Kathrine Switzer",
+      "authorInfo": "First woman to officially run the Boston Marathon",
+      "category": "courage",
+      "language": "en",
+      "isPremium": false,
+      "attributionConfidence": "sourced",
+      "source": {
+        "title": "Kathrine Switzer - Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Kathrine_Switzer",
+        "note": "Quoted from Switzer's account of the 1967 Boston Marathon."
+      }
+    },
+    {
+      "id": "deena-kastor-001",
+      "quote": "I love how the simplicity of long distance running offers clarity to some of life's more complicated issues.",
+      "author": "Deena Kastor",
+      "authorInfo": "Olympic bronze medalist and American long-distance runner",
+      "category": "clarity",
+      "language": "en",
+      "isPremium": false,
+      "attributionConfidence": "sourced",
+      "source": {
+        "title": "How To Get Strong Marathoner's Legs Like Olympian Deena Kastor",
+        "url": "https://www.self.com/story/ommc-marathon-legs-deena-kastor",
+        "note": "Interview quote published by SELF, 1 November 2013."
+      }
+    }
+  ]
+}
