@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "datasetId": "runner-tips-en-v1",
+  "language": "en",
+  "updatedAt": "2026-06-17",
+  "items": [
+    {
+      "id": "fartlek-running-001",
+      "title": "Fartlek Running",
+      "body": "Fartlek running, meaning \"speed play\" in Swedish, is a training method that mixes fast and slow running in a single workout. Runners alternate between bursts of speed and periods of easy jogging, often in an unstructured way. This approach improves endurance, speed, and the body's ability to adapt to different paces, making it useful for marathon, trail, and overall speed-endurance training.",
+      "category": "Speed",
+      "language": "en",
+      "isPremium": false,
+      "source": {
+        "title": "RunnerStation editorial",
+        "url": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/runner_tips/runner_tips_en.json",
+        "note": "Built-in launch dataset for Runner's Tips."
+      }
+    },
+    {
+      "id": "tempo-running-001",
+      "title": "Tempo Run",
+      "body": "Tempo running builds comfort at a controlled, hard effort. Settle into a pace you could hold for about an hour, keep the rhythm smooth, and finish feeling like you could still run another short segment.",
+      "category": "Threshold",
+      "language": "en",
+      "isPremium": false,
+      "source": {
+        "title": "RunnerStation editorial",
+        "url": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/runner_tips/runner_tips_en.json",
+        "note": "Built-in launch dataset for Runner's Tips."
+      }
+    },
+    {
+      "id": "long-run-fuel-001",
+      "title": "Long Run Fueling",
+      "body": "Practice fueling before race day. Start taking carbohydrates early, sip fluid regularly, and rehearse the same timing you plan to use in the marathon so your gut learns the routine.",
+      "category": "Marathon",
+      "language": "en",
+      "isPremium": false,
+      "source": {
+        "title": "RunnerStation editorial",
+        "url": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/runner_tips/runner_tips_en.json",
+        "note": "Built-in launch dataset for Runner's Tips."
+      }
+    },
+    {
+      "id": "easy-day-001",
+      "title": "Easy Day Discipline",
+      "body": "Easy runs should feel truly conversational. Keeping them relaxed protects recovery, lets harder sessions stay sharp, and quietly adds the aerobic volume marathon training depends on.",
+      "category": "Recovery",
+      "language": "en",
+      "isPremium": false,
+      "source": {
+        "title": "RunnerStation editorial",
+        "url": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/runner_tips/runner_tips_en.json",
+        "note": "Built-in launch dataset for Runner's Tips."
+      }
+    }
+  ]
+}
