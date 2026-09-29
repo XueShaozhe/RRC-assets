@@ -1,6 +1,26 @@
 {
-  "version": 1,
-  "updatedAt": "2026-04-09T00:00:00Z",
+  "version": 2,
+  "updatedAt": "2026-09-29T08:00:00Z",
+  "categories": [
+    {
+      "id": "platinum",
+      "title": "Platinum",
+      "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/platinum-label-2025.png",
+      "logoVersion": 1
+    },
+    {
+      "id": "gold",
+      "title": "Gold",
+      "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/gold-label-2026.png",
+      "logoVersion": 1
+    },
+    {
+      "id": "elite",
+      "title": "Elite",
+      "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/elite-label-2025.png",
+      "logoVersion": 1
+    }
+  ],
   "races": [
     {
       "id": "tokyo-marathon",
