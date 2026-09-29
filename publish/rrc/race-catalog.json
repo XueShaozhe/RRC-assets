@@ -3,20 +3,26 @@
   "updatedAt": "2026-09-29T08:00:00Z",
   "categories": [
     {
+      "id": "label",
+      "title": "Label Races",
+      "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/label-2026.png",
+      "logoVersion": 1
+    },
+    {
       "id": "platinum",
-      "title": "Platinum",
+      "title": "Platinum Label Races",
       "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/platinum-label-2025.png",
       "logoVersion": 1
     },
     {
       "id": "gold",
-      "title": "Gold",
+      "title": "Gold Label Races",
       "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/gold-label-2026.png",
       "logoVersion": 1
     },
     {
       "id": "elite",
-      "title": "Elite",
+      "title": "Elite Label Races",
       "logoUrl": "https://xueshaozhe.github.io/RRC-assets/publish/rrc/logos/elite-label-2025.png",
       "logoVersion": 1
     }
