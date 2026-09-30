@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-09-29T14:41:18.594Z",
+  "version": 4,
+  "updatedAt": "2026-09-30T14:26:43.501Z",
   "categories": [
     {
       "id": "label",
@@ -43,7 +43,8 @@
       "worldAthleticsId": 7235565,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235565",
       "eventDate": "2026-01-11",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Xiamen Marathon"
     },
     {
       "id": "wa-7235560",
@@ -56,7 +57,8 @@
       "worldAthleticsId": 7235560,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235560",
       "eventDate": "2026-01-11",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Houston Marathon"
     },
     {
       "id": "wa-7235566",
@@ -69,7 +71,8 @@
       "worldAthleticsId": 7235566,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235566",
       "eventDate": "2026-01-16",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Doha Marathon"
     },
     {
       "id": "wa-7235935",
@@ -82,7 +85,8 @@
       "worldAthleticsId": 7235935,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235935",
       "eventDate": "2026-01-18",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Chongqing Marathon"
     },
     {
       "id": "wa-7235568",
@@ -95,7 +99,8 @@
       "worldAthleticsId": 7235568,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235568",
       "eventDate": "2026-01-18",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Hong Kong Marathon"
     },
     {
       "id": "wa-7235567",
@@ -108,7 +113,8 @@
       "worldAthleticsId": 7235567,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235567",
       "eventDate": "2026-01-18",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Mumbai Marathon"
     },
     {
       "id": "wa-7235987",
@@ -121,7 +127,8 @@
       "worldAthleticsId": 7235987,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235987",
       "eventDate": "2026-01-24",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Buriram Marathon"
     },
     {
       "id": "wa-7237507",
@@ -134,7 +141,8 @@
       "worldAthleticsId": 7237507,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7237507",
       "eventDate": "2026-01-25",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Marrakesh Marathon"
     },
     {
       "id": "wa-7235936",
@@ -147,7 +155,8 @@
       "worldAthleticsId": 7235936,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235936",
       "eventDate": "2026-01-25",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Osaka Women's Marathon"
     },
     {
       "id": "wa-7236536",
@@ -160,7 +169,8 @@
       "worldAthleticsId": 7236536,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236536",
       "eventDate": "2026-01-31",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Riyadh Marathon"
     },
     {
       "id": "wa-7236070",
@@ -173,7 +183,8 @@
       "worldAthleticsId": 7236070,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236070",
       "eventDate": "2026-02-01",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Beppu-Oita Mainichi Marathon"
     },
     {
       "id": "wa-7237510",
@@ -186,7 +197,8 @@
       "worldAthleticsId": 7237510,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7237510",
       "eventDate": "2026-02-01",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Dubai Marathon"
     },
     {
       "id": "wa-7235994",
@@ -199,7 +211,8 @@
       "worldAthleticsId": 7235994,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235994",
       "eventDate": "2026-02-01",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Murcia Marathon"
     },
     {
       "id": "wa-7235572",
@@ -212,7 +225,8 @@
       "worldAthleticsId": 7235572,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235572",
       "eventDate": "2026-02-14",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Lagos City Marathon"
     },
     {
       "id": "wa-7236004",
@@ -225,7 +239,8 @@
       "worldAthleticsId": 7236004,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236004",
       "eventDate": "2026-02-15",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Seville Marathon"
     },
     {
       "id": "wa-7238742",
@@ -238,7 +253,8 @@
       "worldAthleticsId": 7238742,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238742",
       "eventDate": "2026-02-22",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "New Delhi Marathon"
     },
     {
       "id": "wa-7235573",
@@ -251,7 +267,8 @@
       "worldAthleticsId": 7235573,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235573",
       "eventDate": "2026-02-22",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Daegu Marathon"
     },
     {
       "id": "wa-7237362",
@@ -264,7 +281,8 @@
       "worldAthleticsId": 7237362,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7237362",
       "eventDate": "2026-02-22",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Castellón Marathon"
     },
     {
       "id": "wa-7235570",
@@ -277,7 +295,8 @@
       "worldAthleticsId": 7235570,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235570",
       "eventDate": "2026-02-22",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Osaka Marathon"
     },
     {
       "id": "wa-7237040",
@@ -290,7 +309,8 @@
       "worldAthleticsId": 7237040,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7237040",
       "eventDate": "2026-02-27",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Tel Aviv Marathon"
     },
     {
       "id": "tokyo-marathon",
@@ -306,7 +326,8 @@
       "worldAthleticsId": 7236397,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236397",
       "eventDate": "2026-03-01",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Tokyo Marathon"
     },
     {
       "id": "wa-7236072",
@@ -319,7 +340,8 @@
       "worldAthleticsId": 7236072,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236072",
       "eventDate": "2026-03-08",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Nagoya Women's Marathon"
     },
     {
       "id": "wa-7236071",
@@ -332,7 +354,8 @@
       "worldAthleticsId": 7236071,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236071",
       "eventDate": "2026-03-08",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Nanjing Pukou Marathon"
     },
     {
       "id": "wa-7235571",
@@ -345,7 +368,8 @@
       "worldAthleticsId": 7235571,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235571",
       "eventDate": "2026-03-15",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Wan Jin Shi Marathon"
     },
     {
       "id": "wa-7235569",
@@ -358,7 +382,8 @@
       "worldAthleticsId": 7235569,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235569",
       "eventDate": "2026-03-15",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Seoul Marathon"
     },
     {
       "id": "wa-7236009",
@@ -371,7 +396,8 @@
       "worldAthleticsId": 7236009,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236009",
       "eventDate": "2026-03-15",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Barcelona Marathon"
     },
     {
       "id": "wa-7238218",
@@ -384,7 +410,8 @@
       "worldAthleticsId": 7238218,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238218",
       "eventDate": "2026-03-22",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Rome Marathon"
     },
     {
       "id": "wa-7238456",
@@ -397,7 +424,8 @@
       "worldAthleticsId": 7238456,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238456",
       "eventDate": "2026-03-22",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Wuhan Marathon"
     },
     {
       "id": "wa-7238455",
@@ -410,7 +438,8 @@
       "worldAthleticsId": 7238455,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238455",
       "eventDate": "2026-03-22",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Cúcuta Marathon"
     },
     {
       "id": "wa-7235574",
@@ -423,7 +452,8 @@
       "worldAthleticsId": 7235574,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235574",
       "eventDate": "2026-03-22",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Wuxi Marathon"
     },
     {
       "id": "wa-7237041",
@@ -436,7 +466,8 @@
       "worldAthleticsId": 7237041,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7237041",
       "eventDate": "2026-03-29",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Shijiazhuang Marathon"
     },
     {
       "id": "wa-7236398",
@@ -449,7 +480,8 @@
       "worldAthleticsId": 7236398,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236398",
       "eventDate": "2026-03-29",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Yancheng Marathon"
     },
     {
       "id": "wa-7236014",
@@ -462,7 +494,8 @@
       "worldAthleticsId": 7236014,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236014",
       "eventDate": "2026-04-05",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Gunsan Saemangeum Marathon"
     },
     {
       "id": "wa-7241143",
@@ -475,7 +508,8 @@
       "worldAthleticsId": 7241143,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7241143",
       "eventDate": "2026-04-05",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Tashkent Marathon"
     },
     {
       "id": "wa-7236015",
@@ -488,7 +522,8 @@
       "worldAthleticsId": 7236015,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236015",
       "eventDate": "2026-04-12",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "São Paulo Marathon"
     },
     {
       "id": "wa-7236036",
@@ -501,7 +536,8 @@
       "worldAthleticsId": 7236036,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236036",
       "eventDate": "2026-04-12",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Bratislava Marathon"
     },
     {
       "id": "wa-7236392",
@@ -514,7 +550,8 @@
       "worldAthleticsId": 7236392,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236392",
       "eventDate": "2026-04-12",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Łódź Marathon"
     },
     {
       "id": "wa-7236034",
@@ -527,7 +564,8 @@
       "worldAthleticsId": 7236034,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236034",
       "eventDate": "2026-04-12",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Enschede Marathon"
     },
     {
       "id": "wa-7236399",
@@ -540,7 +578,8 @@
       "worldAthleticsId": 7236399,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236399",
       "eventDate": "2026-04-12",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Hannover Marathon"
     },
     {
       "id": "wa-7236077",
@@ -553,7 +592,8 @@
       "worldAthleticsId": 7236077,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236077",
       "eventDate": "2026-04-12",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Huai'an Marathon"
     },
     {
       "id": "wa-7235576",
@@ -566,7 +606,8 @@
       "worldAthleticsId": 7235576,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235576",
       "eventDate": "2026-04-12",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Rotterdam Marathon"
     },
     {
       "id": "wa-7235597",
@@ -579,7 +620,8 @@
       "worldAthleticsId": 7235597,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235597",
       "eventDate": "2026-04-12",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Paris Marathon"
     },
     {
       "id": "wa-7236394",
@@ -592,7 +634,8 @@
       "worldAthleticsId": 7236394,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236394",
       "eventDate": "2026-04-12",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Milan Marathon"
     },
     {
       "id": "wa-7236076",
@@ -605,7 +648,8 @@
       "worldAthleticsId": 7236076,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236076",
       "eventDate": "2026-04-12",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Yangling Marathon"
     },
     {
       "id": "wa-7236078",
@@ -618,7 +662,8 @@
       "worldAthleticsId": 7236078,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236078",
       "eventDate": "2026-04-19",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Belgrade Marathon"
     },
     {
       "id": "wa-7236400",
@@ -631,7 +676,8 @@
       "worldAthleticsId": 7236400,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236400",
       "eventDate": "2026-04-19",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Qingdao Marathon"
     },
     {
       "id": "wa-7236128",
@@ -644,7 +690,8 @@
       "worldAthleticsId": 7236128,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236128",
       "eventDate": "2026-04-19",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Vienna Marathon"
     },
     {
       "id": "boston-marathon",
@@ -660,7 +707,8 @@
       "worldAthleticsId": 7235561,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235561",
       "eventDate": "2026-04-20",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Boston Marathon"
     },
     {
       "id": "wa-7237315",
@@ -673,7 +721,8 @@
       "worldAthleticsId": 7237315,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7237315",
       "eventDate": "2026-04-26",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Europe Marathon"
     },
     {
       "id": "wa-7238052",
@@ -686,7 +735,8 @@
       "worldAthleticsId": 7238052,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238052",
       "eventDate": "2026-04-26",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Miyun Marathon"
     },
     {
       "id": "london-marathon",
@@ -702,7 +752,8 @@
       "worldAthleticsId": 7235562,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235562",
       "eventDate": "2026-04-26",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "London Marathon"
     },
     {
       "id": "wa-7236080",
@@ -715,7 +766,8 @@
       "worldAthleticsId": 7236080,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236080",
       "eventDate": "2026-04-26",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "The 36th Dalian Marathon"
     },
     {
       "id": "wa-7237367",
@@ -728,7 +780,8 @@
       "worldAthleticsId": 7237367,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7237367",
       "eventDate": "2026-04-26",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Madrid Rock 'n' Roll Marathon"
     },
     {
       "id": "wa-7240024",
@@ -741,7 +794,8 @@
       "worldAthleticsId": 7240024,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7240024",
       "eventDate": "2026-05-02",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Issyk-Kul Marathon"
     },
     {
       "id": "wa-7236401",
@@ -754,7 +808,8 @@
       "worldAthleticsId": 7236401,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236401",
       "eventDate": "2026-05-03",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Durban Marathon"
     },
     {
       "id": "wa-7238443",
@@ -767,7 +822,8 @@
       "worldAthleticsId": 7238443,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238443",
       "eventDate": "2026-05-03",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Cali Marathon"
     },
     {
       "id": "wa-7240798",
@@ -780,7 +836,8 @@
       "worldAthleticsId": 7240798,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7240798",
       "eventDate": "2026-05-03",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Belfast City Marathon"
     },
     {
       "id": "wa-7236039",
@@ -793,7 +850,8 @@
       "worldAthleticsId": 7236039,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236039",
       "eventDate": "2026-05-03",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Prague Marathon"
     },
     {
       "id": "wa-7236125",
@@ -806,7 +864,8 @@
       "worldAthleticsId": 7236125,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236125",
       "eventDate": "2026-05-10",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Copenhagen Marathon"
     },
     {
       "id": "wa-7236124",
@@ -819,7 +878,8 @@
       "worldAthleticsId": 7236124,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236124",
       "eventDate": "2026-05-10",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Geneva Marathon"
     },
     {
       "id": "wa-7232567",
@@ -832,7 +892,8 @@
       "worldAthleticsId": 7232567,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7232567",
       "eventDate": "2026-05-10",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Rabat Marathon"
     },
     {
       "id": "wa-7238049",
@@ -845,7 +906,8 @@
       "worldAthleticsId": 7238049,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238049",
       "eventDate": "2026-05-17",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Riga Marathon"
     },
     {
       "id": "wa-7237458",
@@ -858,7 +920,8 @@
       "worldAthleticsId": 7237458,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7237458",
       "eventDate": "2026-05-24",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Cape Town Marathon"
     },
     {
       "id": "wa-7235588",
@@ -871,7 +934,8 @@
       "worldAthleticsId": 7235588,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235588",
       "eventDate": "2026-05-24",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Lanzhou Marathon"
     },
     {
       "id": "wa-7238056",
@@ -884,7 +948,8 @@
       "worldAthleticsId": 7238056,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238056",
       "eventDate": "2026-05-24",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Lima Marathon"
     },
     {
       "id": "wa-7236100",
@@ -897,7 +962,8 @@
       "worldAthleticsId": 7236100,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236100",
       "eventDate": "2026-05-24",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Ottawa Marathon"
     },
     {
       "id": "wa-7238741",
@@ -910,7 +976,8 @@
       "worldAthleticsId": 7238741,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238741",
       "eventDate": "2026-05-30",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Stockholm Marathon"
     },
     {
       "id": "wa-7236017",
@@ -923,7 +990,8 @@
       "worldAthleticsId": 7236017,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236017",
       "eventDate": "2026-05-31",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Porto Alegre Marathon"
     },
     {
       "id": "wa-7238441",
@@ -936,7 +1004,8 @@
       "worldAthleticsId": 7238441,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238441",
       "eventDate": "2026-05-31",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Jilin City Marathon"
     },
     {
       "id": "wa-7239891",
@@ -949,7 +1018,8 @@
       "worldAthleticsId": 7239891,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7239891",
       "eventDate": "2026-06-07",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Rio de Janeiro Marathon"
     },
     {
       "id": "wa-7236425",
@@ -962,7 +1032,8 @@
       "worldAthleticsId": 7236425,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236425",
       "eventDate": "2026-06-14",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Jakarta Marathon"
     },
     {
       "id": "wa-7236083",
@@ -975,7 +1046,8 @@
       "worldAthleticsId": 7236083,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236083",
       "eventDate": "2026-06-14",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Guiyang Marathon"
     },
     {
       "id": "wa-7239888",
@@ -988,7 +1060,8 @@
       "worldAthleticsId": 7239888,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7239888",
       "eventDate": "2026-06-14",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Kigali Peace Marathon"
     },
     {
       "id": "wa-7239889",
@@ -1001,7 +1074,8 @@
       "worldAthleticsId": 7239889,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7239889",
       "eventDate": "2026-07-05",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Gold Coast Marathon"
     },
     {
       "id": "wa-7236019",
@@ -1014,7 +1088,8 @@
       "worldAthleticsId": 7236019,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236019",
       "eventDate": "2026-07-12",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Porto Alegre 42K Marathon"
     },
     {
       "id": "wa-7241683",
@@ -1027,7 +1102,8 @@
       "worldAthleticsId": 7241683,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7241683",
       "eventDate": "2026-07-19",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "SCORE Marathon"
     },
     {
       "id": "wa-7238308",
@@ -1040,7 +1116,8 @@
       "worldAthleticsId": 7238308,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238308",
       "eventDate": "2026-07-26",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "SP City Marathon"
     },
     {
       "id": "wa-7241264",
@@ -1053,7 +1130,8 @@
       "worldAthleticsId": 7241264,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7241264",
       "eventDate": "2026-07-26",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Yala Marathon"
     },
     {
       "id": "wa-7238057",
@@ -1066,7 +1144,8 @@
       "worldAthleticsId": 7238057,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238057",
       "eventDate": "2026-08-02",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Sunshine Coast Marathon"
     },
     {
       "id": "wa-7236085",
@@ -1079,7 +1158,8 @@
       "worldAthleticsId": 7236085,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236085",
       "eventDate": "2026-08-22",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Mount Rwenzori Marathon"
     },
     {
       "id": "wa-7238457",
@@ -1092,7 +1172,8 @@
       "worldAthleticsId": 7238457,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238457",
       "eventDate": "2026-08-23",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Maybank Marathon"
     },
     {
       "id": "wa-7238219",
@@ -1105,7 +1186,8 @@
       "worldAthleticsId": 7238219,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238219",
       "eventDate": "2026-08-23",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Songkhla Marathon"
     },
     {
       "id": "wa-7236086",
@@ -1118,7 +1200,8 @@
       "worldAthleticsId": 7236086,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236086",
       "eventDate": "2026-08-30",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Hokkaido Marathon"
     },
     {
       "id": "wa-7241684",
@@ -1131,7 +1214,8 @@
       "worldAthleticsId": 7241684,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7241684",
       "eventDate": "2026-08-30",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Florianópolis Marathon"
     },
     {
       "id": "wa-7235589",
@@ -1144,7 +1228,8 @@
       "worldAthleticsId": 7235589,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235589",
       "eventDate": "2026-08-30",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Mexico City Marathon"
     },
     {
       "id": "wa-7238761",
@@ -1157,7 +1242,8 @@
       "worldAthleticsId": 7238761,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238761",
       "eventDate": "2026-08-30",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Hyderabad Marathon"
     },
     {
       "id": "sydney-marathon",
@@ -1173,7 +1259,8 @@
       "worldAthleticsId": 7235579,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235579",
       "eventDate": "2026-08-30",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Sydney Marathon"
     },
     {
       "id": "wa-7238739",
@@ -1186,7 +1273,8 @@
       "worldAthleticsId": 7238739,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238739",
       "eventDate": "2026-09-06",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Shenyang Marathon"
     },
     {
       "id": "wa-7240795",
@@ -1199,7 +1287,8 @@
       "worldAthleticsId": 7240795,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7240795",
       "eventDate": "2026-09-13",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Harbin Marathon"
     },
     {
       "id": "wa-7239220",
@@ -1212,7 +1301,8 @@
       "worldAthleticsId": 7239220,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7239220",
       "eventDate": "2026-09-13",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Vilnius Marathon"
     },
     {
       "id": "wa-7234777",
@@ -1225,7 +1315,8 @@
       "worldAthleticsId": 7234777,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7234777",
       "eventDate": "2026-09-13",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Tallinn Marathon"
     },
     {
       "id": "wa-7244564",
@@ -1238,7 +1329,8 @@
       "worldAthleticsId": 7244564,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7244564",
       "eventDate": "2026-09-20",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Buenos Aires Marathon"
     },
     {
       "id": "wa-7242040",
@@ -1251,7 +1343,8 @@
       "worldAthleticsId": 7242040,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7242040",
       "eventDate": "2026-09-26",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Absa Marathon"
     },
     {
       "id": "wa-7236127",
@@ -1264,7 +1357,8 @@
       "worldAthleticsId": 7236127,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236127",
       "eventDate": "2026-09-27",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Warsaw Marathon"
     },
     {
       "id": "berlin-marathon",
@@ -1280,7 +1374,8 @@
       "worldAthleticsId": 7235580,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235580",
       "eventDate": "2026-09-27",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Berlin Marathon"
     },
     {
       "id": "wa-7236018",
@@ -1293,7 +1388,8 @@
       "worldAthleticsId": 7236018,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236018",
       "eventDate": "2026-09-27",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Maratona Salvador"
     },
     {
       "id": "wa-7235590",
@@ -1306,7 +1402,8 @@
       "worldAthleticsId": 7235590,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235590",
       "eventDate": "2026-09-27",
-      "distanceStatus": "verified-full-marathon"
+      "distanceStatus": "verified-full-marathon",
+      "displayName": "Taiyuan Marathon"
     },
     {
       "id": "wa-7245168",
@@ -1319,7 +1416,8 @@
       "worldAthleticsId": 7245168,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7245168",
       "eventDate": "2026-10-02",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Amman Marathon"
     },
     {
       "id": "wa-7236087",
@@ -1332,7 +1430,8 @@
       "worldAthleticsId": 7236087,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236087",
       "eventDate": "2026-10-04",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Cologne Marathon"
     },
     {
       "id": "wa-7236032",
@@ -1345,7 +1444,8 @@
       "worldAthleticsId": 7236032,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236032",
       "eventDate": "2026-10-04",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Košice Peace Marathon"
     },
     {
       "id": "wa-7239890",
@@ -1358,7 +1458,8 @@
       "worldAthleticsId": 7239890,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7239890",
       "eventDate": "2026-10-04",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Kuala Lumpur Marathon"
     },
     {
       "id": "wa-7242301",
@@ -1371,7 +1472,8 @@
       "worldAthleticsId": 7242301,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7242301",
       "eventDate": "2026-10-04",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Twin Cities Marathon"
     },
     {
       "id": "wa-7236105",
@@ -1384,7 +1486,8 @@
       "worldAthleticsId": 7236105,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236105",
       "eventDate": "2026-10-10",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Lisbon Marathon"
     },
     {
       "id": "wa-7237778",
@@ -1397,7 +1500,8 @@
       "worldAthleticsId": 7237778,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7237778",
       "eventDate": "2026-10-11",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Zagreb Marathon"
     },
     {
       "id": "chicago-marathon",
@@ -1413,7 +1517,8 @@
       "worldAthleticsId": 7235563,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235563",
       "eventDate": "2026-10-11",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Chicago Marathon"
     },
     {
       "id": "wa-7236102",
@@ -1426,7 +1531,8 @@
       "worldAthleticsId": 7236102,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236102",
       "eventDate": "2026-10-11",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Montréal Marathon"
     },
     {
       "id": "wa-7236403",
@@ -1439,7 +1545,8 @@
       "worldAthleticsId": 7236403,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236403",
       "eventDate": "2026-10-11",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Munich Marathon"
     },
     {
       "id": "wa-7243390",
@@ -1452,7 +1559,8 @@
       "worldAthleticsId": 7243390,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7243390",
       "eventDate": "2026-10-11",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Perth Marathon"
     },
     {
       "id": "wa-7236603",
@@ -1465,7 +1573,8 @@
       "worldAthleticsId": 7236603,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236603",
       "eventDate": "2026-10-17",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Gyeongju Marathon"
     },
     {
       "id": "wa-7235591",
@@ -1478,7 +1587,8 @@
       "worldAthleticsId": 7235591,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235591",
       "eventDate": "2026-10-18",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Beijing Marathon"
     },
     {
       "id": "wa-7235593",
@@ -1491,7 +1601,8 @@
       "worldAthleticsId": 7235593,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235593",
       "eventDate": "2026-10-18",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Ljubljana Marathon"
     },
     {
       "id": "wa-7235581",
@@ -1504,7 +1615,8 @@
       "worldAthleticsId": 7235581,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235581",
       "eventDate": "2026-10-18",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Amsterdam Marathon"
     },
     {
       "id": "wa-7238226",
@@ -1517,7 +1629,8 @@
       "worldAthleticsId": 7238226,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238226",
       "eventDate": "2026-10-18",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Toronto Waterfront Marathon"
     },
     {
       "id": "wa-7236089",
@@ -1530,7 +1643,8 @@
       "worldAthleticsId": 7236089,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236089",
       "eventDate": "2026-10-18",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Xi'an Marathon"
     },
     {
       "id": "wa-7235592",
@@ -1543,7 +1657,8 @@
       "worldAthleticsId": 7235592,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235592",
       "eventDate": "2026-10-18",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Dongying Marathon"
     },
     {
       "id": "wa-7245003",
@@ -1556,7 +1671,8 @@
       "worldAthleticsId": 7245003,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7245003",
       "eventDate": "2026-10-25",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Casablanca Marathon"
     },
     {
       "id": "wa-7244018",
@@ -1569,7 +1685,8 @@
       "worldAthleticsId": 7244018,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7244018",
       "eventDate": "2026-10-25",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Chengdu Marathon"
     },
     {
       "id": "wa-7238744",
@@ -1582,7 +1699,8 @@
       "worldAthleticsId": 7238744,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238744",
       "eventDate": "2026-10-25",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Dublin Marathon"
     },
     {
       "id": "wa-7236428",
@@ -1595,7 +1713,8 @@
       "worldAthleticsId": 7236428,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236428",
       "eventDate": "2026-10-25",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Jakarta Festival Marathon"
     },
     {
       "id": "wa-7246125",
@@ -1608,7 +1727,8 @@
       "worldAthleticsId": 7246125,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7246125",
       "eventDate": "2026-10-25",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Frankfurt Marathon"
     },
     {
       "id": "wa-7246457",
@@ -1621,7 +1741,8 @@
       "worldAthleticsId": 7246457,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7246457",
       "eventDate": "2026-10-25",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Nairobi Marathon"
     },
     {
       "id": "wa-7238053",
@@ -1634,7 +1755,8 @@
       "worldAthleticsId": 7238053,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238053",
       "eventDate": "2026-10-25",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Venice Marathon"
     },
     {
       "id": "wa-7235594",
@@ -1647,7 +1769,8 @@
       "worldAthleticsId": 7235594,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235594",
       "eventDate": "2026-11-01",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Hangzhou Marathon"
     },
     {
       "id": "wa-7235596",
@@ -1660,7 +1783,8 @@
       "worldAthleticsId": 7235596,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235596",
       "eventDate": "2026-11-01",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Istanbul Marathon"
     },
     {
       "id": "new-york-city-marathon",
@@ -1676,7 +1800,8 @@
       "worldAthleticsId": 7235564,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235564",
       "eventDate": "2026-11-01",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "New York City Marathon"
     },
     {
       "id": "wa-7244880",
@@ -1689,7 +1814,8 @@
       "worldAthleticsId": 7244880,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7244880",
       "eventDate": "2026-11-01",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Yichang Marathon"
     },
     {
       "id": "wa-7246092",
@@ -1702,7 +1828,8 @@
       "worldAthleticsId": 7246092,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7246092",
       "eventDate": "2026-11-07",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Xichang Marathon"
     },
     {
       "id": "wa-7241511",
@@ -1715,7 +1842,8 @@
       "worldAthleticsId": 7241511,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7241511",
       "eventDate": "2026-11-08",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Athens Marathon"
     },
     {
       "id": "wa-7236106",
@@ -1728,7 +1856,8 @@
       "worldAthleticsId": 7236106,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236106",
       "eventDate": "2026-11-08",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Porto Marathon"
     },
     {
       "id": "wa-7236094",
@@ -1741,7 +1870,8 @@
       "worldAthleticsId": 7236094,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236094",
       "eventDate": "2026-11-08",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Gaochun Marathon"
     },
     {
       "id": "wa-7244448",
@@ -1754,7 +1884,8 @@
       "worldAthleticsId": 7244448,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7244448",
       "eventDate": "2026-11-08",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Málaga Marathon"
     },
     {
       "id": "wa-7237514",
@@ -1767,7 +1898,8 @@
       "worldAthleticsId": 7237514,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7237514",
       "eventDate": "2026-11-08",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Ravenna Marathon"
     },
     {
       "id": "wa-7236093",
@@ -1780,7 +1912,8 @@
       "worldAthleticsId": 7236093,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236093",
       "eventDate": "2026-11-08",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Nanchang Marathon"
     },
     {
       "id": "wa-7244856",
@@ -1793,7 +1926,8 @@
       "worldAthleticsId": 7244856,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7244856",
       "eventDate": "2026-11-08",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Samarkand Marathon"
     },
     {
       "id": "wa-7236090",
@@ -1806,7 +1940,8 @@
       "worldAthleticsId": 7236090,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236090",
       "eventDate": "2026-11-08",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Xinyu Fairy Lake Marathon"
     },
     {
       "id": "wa-7244084",
@@ -1819,7 +1954,8 @@
       "worldAthleticsId": 7244084,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7244084",
       "eventDate": "2026-11-08",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Guadalajara Marathon"
     },
     {
       "id": "wa-7238763",
@@ -1832,7 +1968,8 @@
       "worldAthleticsId": 7238763,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238763",
       "eventDate": "2026-11-15",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Bangsaen Marathon"
     },
     {
       "id": "wa-7244665",
@@ -1845,7 +1982,8 @@
       "worldAthleticsId": 7244665,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7244665",
       "eventDate": "2026-11-15",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Borobudur Marathon"
     },
     {
       "id": "wa-7236095",
@@ -1858,7 +1996,8 @@
       "worldAthleticsId": 7236095,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236095",
       "eventDate": "2026-11-15",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Guilin Marathon"
     },
     {
       "id": "wa-7238740",
@@ -1871,7 +2010,8 @@
       "worldAthleticsId": 7238740,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238740",
       "eventDate": "2026-11-15",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Kobe Marathon"
     },
     {
       "id": "wa-7236096",
@@ -1884,7 +2024,8 @@
       "worldAthleticsId": 7236096,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236096",
       "eventDate": "2026-11-22",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "China-ASEAN Marathon"
     },
     {
       "id": "wa-7246554",
@@ -1897,7 +2038,8 @@
       "worldAthleticsId": 7246554,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7246554",
       "eventDate": "2026-11-22",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Halong Bay Heritage Marathon"
     },
     {
       "id": "wa-7240256",
@@ -1910,7 +2052,8 @@
       "worldAthleticsId": 7240256,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7240256",
       "eventDate": "2026-11-22",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Korat Marathon"
     },
     {
       "id": "wa-7238737",
@@ -1923,7 +2066,8 @@
       "worldAthleticsId": 7238737,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7238737",
       "eventDate": "2026-11-22",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Nanjing Marathon"
     },
     {
       "id": "wa-7247057",
@@ -1936,7 +2080,8 @@
       "worldAthleticsId": 7247057,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7247057",
       "eventDate": "2026-11-29",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Ahmedabad Marathon"
     },
     {
       "id": "wa-7244429",
@@ -1949,7 +2094,8 @@
       "worldAthleticsId": 7244429,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7244429",
       "eventDate": "2026-11-29",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Bangkok Marathon"
     },
     {
       "id": "wa-7245296",
@@ -1962,7 +2108,8 @@
       "worldAthleticsId": 7245296,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7245296",
       "eventDate": "2026-11-29",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Kolkata Marathon"
     },
     {
       "id": "wa-7236405",
@@ -1975,7 +2122,8 @@
       "worldAthleticsId": 7236405,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236405",
       "eventDate": "2026-12-06",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Hofu Yomiuri Marathon"
     },
     {
       "id": "wa-7235595",
@@ -1988,7 +2136,8 @@
       "worldAthleticsId": 7235595,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235595",
       "eventDate": "2026-12-06",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Singapore Marathon"
     },
     {
       "id": "wa-7236406",
@@ -2001,7 +2150,8 @@
       "worldAthleticsId": 7236406,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236406",
       "eventDate": "2026-12-06",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Fukuoka International Marathon"
     },
     {
       "id": "wa-7235578",
@@ -2014,7 +2164,8 @@
       "worldAthleticsId": 7235578,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235578",
       "eventDate": "2026-12-06",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Valencia Marathon"
     },
     {
       "id": "wa-7235577",
@@ -2027,7 +2178,8 @@
       "worldAthleticsId": 7235577,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235577",
       "eventDate": "2026-12-06",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Shanghai Marathon"
     },
     {
       "id": "wa-7235585",
@@ -2040,7 +2192,8 @@
       "worldAthleticsId": 7235585,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235585",
       "eventDate": "2026-12-06",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Abu Dhabi Marathon"
     },
     {
       "id": "wa-7235587",
@@ -2053,7 +2206,8 @@
       "worldAthleticsId": 7235587,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235587",
       "eventDate": "2026-12-12",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "ADNOC Abu Dhabi Marathon"
     },
     {
       "id": "wa-7242348",
@@ -2066,7 +2220,8 @@
       "worldAthleticsId": 7242348,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7242348",
       "eventDate": "2026-12-13",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Mersin Marathon"
     },
     {
       "id": "wa-7246124",
@@ -2079,7 +2234,8 @@
       "worldAthleticsId": 7246124,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7246124",
       "eventDate": "2026-12-13",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Honolulu Marathon"
     },
     {
       "id": "wa-7242469",
@@ -2092,7 +2248,8 @@
       "worldAthleticsId": 7242469,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7242469",
       "eventDate": "2026-12-20",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Lok Sahaita Marathon"
     },
     {
       "id": "wa-7235586",
@@ -2105,7 +2262,8 @@
       "worldAthleticsId": 7235586,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235586",
       "eventDate": "2026-12-20",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Guangzhou Marathon"
     },
     {
       "id": "wa-7242302",
@@ -2118,7 +2276,8 @@
       "worldAthleticsId": 7242302,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7242302",
       "eventDate": "2026-12-20",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Nanning Marathon"
     },
     {
       "id": "wa-7235584",
@@ -2131,7 +2290,8 @@
       "worldAthleticsId": 7235584,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7235584",
       "eventDate": "2026-12-20",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Taipei Marathon"
     },
     {
       "id": "wa-7244081",
@@ -2144,7 +2304,8 @@
       "worldAthleticsId": 7244081,
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7244081",
       "eventDate": "2026-12-27",
-      "distanceStatus": "pending-distance-verification"
+      "distanceStatus": "pending-distance-verification",
+      "displayName": "Fuzhou Marathon"
     }
   ],
   "season": 2026,
