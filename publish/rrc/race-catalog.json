@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-09-30T14:26:43.501Z",
+  "updatedAt": "2026-10-01T02:30:10.594Z",
   "categories": [
     {
       "id": "label",
@@ -767,7 +767,7 @@
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7236080",
       "eventDate": "2026-04-26",
       "distanceStatus": "verified-full-marathon",
-      "displayName": "The 36th Dalian Marathon"
+      "displayName": "Dalian Marathon"
     },
     {
       "id": "wa-7237367",
@@ -781,7 +781,7 @@
       "sourceUrl": "https://worldathletics.org/competition/calendar-results/results/7237367",
       "eventDate": "2026-04-26",
       "distanceStatus": "verified-full-marathon",
-      "displayName": "Madrid Rock 'n' Roll Marathon"
+      "displayName": "Madrid Marathon"
     },
     {
       "id": "wa-7240024",
