@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-10-01T02:30:10.594Z",
+  "version": 5,
+  "updatedAt": "2026-10-01T12:16:56.162Z",
   "categories": [
     {
       "id": "label",
@@ -174,7 +174,7 @@
     },
     {
       "id": "wa-7236070",
-      "name": "74th Beppu-Oita Mainichi Marathon",
+      "name": "Beppu-Oita Mainichi Marathon",
       "category": "elite",
       "labelCategory": "elite",
       "countryCode": "jp",
@@ -653,7 +653,7 @@
     },
     {
       "id": "wa-7236078",
-      "name": "39th Powerade Belgrade Marathon",
+      "name": "Powerade Belgrade Marathon",
       "category": "label",
       "labelCategory": "label",
       "countryCode": "rs",
@@ -757,7 +757,7 @@
     },
     {
       "id": "wa-7236080",
-      "name": "The 36th Dalian Marathon",
+      "name": "Dalian Marathon",
       "category": "elite",
       "labelCategory": "elite",
       "countryCode": "cn",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "wa-7236127",
-      "name": "48th Warsaw Marathon",
+      "name": "Warsaw Marathon",
       "category": "elite",
       "labelCategory": "elite",
       "countryCode": "pl",
@@ -1491,7 +1491,7 @@
     },
     {
       "id": "wa-7237778",
-      "name": "34th Zagreb Marathon",
+      "name": "Zagreb Marathon",
       "category": "label",
       "labelCategory": "label",
       "countryCode": "hr",
@@ -2113,7 +2113,7 @@
     },
     {
       "id": "wa-7236405",
-      "name": "57th Hofu Yomiuri Marathon",
+      "name": "Hofu Yomiuri Marathon",
       "category": "elite",
       "labelCategory": "elite",
       "countryCode": "jp",
@@ -2211,7 +2211,7 @@
     },
     {
       "id": "wa-7242348",
-      "name": "8th International Mersin Marathon",
+      "name": "International Mersin Marathon",
       "category": "elite",
       "labelCategory": "elite",
       "countryCode": "tr",
@@ -2239,7 +2239,7 @@
     },
     {
       "id": "wa-7242469",
-      "name": "3rd Lok Sahaita Marathon",
+      "name": "Lok Sahaita Marathon",
       "category": "label",
       "labelCategory": "label",
       "countryCode": "pk",
